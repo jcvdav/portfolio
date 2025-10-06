@@ -7,7 +7,7 @@ mid-term feedback you provided.
 
 ## Repository structure
 
-The repository contains three main folder:
+The repository contains three main folders:
 
 - `data`:
   - `data/raw` contains the `*.csv` file as downloaded from google forms.
